@@ -48,7 +48,10 @@ pip install tensorflow numpy matplotlib tensorflow-datasets
 ```
 
 ## alterações feitas
+uma diminuição nos hyperparametros para melhor performance do modelo
+como a diminuição de camadas, épocas entre outros.
 
+## como executar
 1. Clone o repositório ou faça o download do notebook.
 2. Abra o notebook no [Google Colab](https://colab.research.google.com) ou localmente em um ambiente Jupyter.
 3. Execute todas as células para treinar o modelo e visualizar os resultados.
